@@ -7,3 +7,4 @@ services:
       - ./etc/wiremock:/home/wiremock/mappings
     command:
       - --verbose
+      - -disable-http2-plain
