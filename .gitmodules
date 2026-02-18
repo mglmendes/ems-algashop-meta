@@ -6,3 +6,9 @@
 	path = ems-algashop-docs
 	url = https://github.com/MGLMendes/ems-algashop-docs.git
 	branch = main
+[submodule "microsservices/billing"]
+	path = microsservices/billing
+	url = https://github.com/MGLMendes/ems-algashop-billing.git
+[submodule "microservices/billing"]
+	path = microservices/billing
+	url = https://github.com/MGLMendes/ems-algashop-billing.git
